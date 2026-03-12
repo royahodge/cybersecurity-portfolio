@@ -18,6 +18,12 @@ Cybersecurity student focused on security analysis, investigations, and risk man
 I am building hands-on experience through lab environments and simulated security scenarios covering vulnerability assessment, incident investigation, and governance risk analysis.
 
 My goal is to transition into an entry-level cybersecurity analyst role focused on investigative security work and threat analysis.
+
+## Portfolio Navigation
+
+- 🔍 [Vulnerability Assessment](./vulnerability-assessment)
+- 🕵️ [Security Incident Investigation](./incident-investigation)
+- ⚖️ [Governance Risk Assessment](./risk-assessment)
 ## Projects
 | Project | Focus | Tools |
 |-------|-------|-------|
