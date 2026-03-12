@@ -11,6 +11,7 @@ My goal is to transition into an entry-level cybersecurity analyst role focused 
 ## Projects
 
 ### 1. Vulnerability Assessment
+[View Project →](./vulnerability-assessment)
 Conducted a vulnerability scan of a simulated environment using Nessus and documented security risks and remediation strategies.
 
 ### 2. Security Incident Investigation
