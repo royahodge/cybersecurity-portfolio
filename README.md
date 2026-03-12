@@ -1,12 +1,12 @@
 # Cybersecurity Portfolio
 
-### About Me
+## About Me
 
-Cybersecurity student focused on security analysis, investigations, and risk management.  
-This portfolio contains hands-on projects demonstrating vulnerability analysis, incident response investigation, and security risk assessment.
+Cybersecurity student focused on security analysis, investigations, and risk management.
 
-My goal is to transition into an entry-level cybersecurity analyst role with a focus on investigative security work and threat analysis.
+I am building hands-on experience through lab environments and simulated security scenarios covering vulnerability assessment, incident investigation, and governance risk analysis.
 
+My goal is to transition into an entry-level cybersecurity analyst role focused on investigative security work and threat analysis.
 ## Projects
 
 ### 1. Vulnerability Assessment
