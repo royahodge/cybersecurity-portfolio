@@ -13,7 +13,7 @@
 
 ## About Me
 
-Cybersecurity student focused on security analysis, investigations, and risk management.
+Cybersecurity student focused on security analysis, investigations, and risk management with an emphasis on identifying vulnerabilities, reconstructing security events, and understanding attacker behavior.
 
 I am building hands-on experience through lab environments and simulated security scenarios covering vulnerability assessment, incident investigation, and governance risk analysis.
 
