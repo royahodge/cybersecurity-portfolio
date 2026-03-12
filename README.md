@@ -1,5 +1,13 @@
-# Cybersecurity Portfolio
+# Roya Hodge – Cybersecurity Portfolio
 
+![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-blue)
+![Vulnerability Assessment](https://img.shields.io/badge/Project-Vulnerability%20Assessment-orange)
+![Incident Investigation](https://img.shields.io/badge/Project-Incident%20Investigation-red)
+![Risk Analysis](https://img.shields.io/badge/Project-Risk%20Assessment-green)
+
+![Kali Linux](https://img.shields.io/badge/Tool-Kali%20Linux-black)
+![Nessus](https://img.shields.io/badge/Tool-Nessus%20Essentials-purple)
+![VirtualBox](https://img.shields.io/badge/Tool-VirtualBox-blue)
 
 ## About Me
 
