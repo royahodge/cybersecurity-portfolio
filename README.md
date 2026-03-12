@@ -2,12 +2,13 @@
 
 This repository contains hands-on cybersecurity projects demonstrating skills in vulnerability analysis, incident investigation, and risk assessment.
 
-## About Me
+### About Me
 
 Cybersecurity student focused on security analysis, investigations, and risk management.  
 This portfolio contains hands-on projects demonstrating vulnerability analysis, incident response investigation, and security risk assessment.
 
 My goal is to transition into an entry-level cybersecurity analyst role with a focus on investigative security work and threat analysis.
+
 ## Projects
 
 ### 1. Vulnerability Assessment
