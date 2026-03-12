@@ -9,6 +9,8 @@
 ![Nessus](https://img.shields.io/badge/Tool-Nessus%20Essentials-purple)
 ![VirtualBox](https://img.shields.io/badge/Tool-VirtualBox-blue)
 
+![Status](https://img.shields.io/badge/Portfolio-Active%20Development-brightgreen)
+
 ## About Me
 
 Cybersecurity student focused on security analysis, investigations, and risk management.
@@ -17,6 +19,11 @@ I am building hands-on experience through lab environments and simulated securit
 
 My goal is to transition into an entry-level cybersecurity analyst role focused on investigative security work and threat analysis.
 ## Projects
+| Project | Focus | Tools |
+|-------|-------|-------|
+| Vulnerability Assessment | Vulnerability scanning and remediation | Nessus, Kali Linux |
+| Security Incident Investigation | Log analysis and timeline reconstruction | Log analysis |
+| Governance Risk Assessment | Threat analysis and security controls | NIST concepts |
 
 ### 1. Vulnerability Assessment
 
