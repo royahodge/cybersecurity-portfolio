@@ -16,15 +16,34 @@ My goal is to transition into an entry-level cybersecurity analyst role focused 
 
 Conducted a vulnerability scan of a simulated lab environment using Nessus to identify critical security weaknesses and recommend remediation strategies.
 
+**Lab Environment**
+
+- Kali Linux attacker machine
+- Metasploitable vulnerable target
+- VirtualBox virtualization platform
+- Nessus vulnerability scanner
+
 **Skills demonstrated**
+
 - Vulnerability scanning
 - CVSS risk analysis
 - Security remediation planning
 
 **Tools**
+
 - Kali Linux
 - Nessus Essentials
 - VirtualBox
+
+**Key Findings**
+
+- Multiple high and critical vulnerabilities discovered
+- Outdated services exposed potential exploitation paths
+- Misconfigured services increased attack surface
+
+**Outcome**
+
+This project demonstrated the ability to identify vulnerabilities, analyze security risk, and provide remediation recommendations within a controlled lab environment.
 
 ### 2. Security Incident Investigation
 
