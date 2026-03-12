@@ -1,6 +1,5 @@
 # Cybersecurity Portfolio
 
-
 ### About Me
 
 Cybersecurity student focused on security analysis, investigations, and risk management.  
