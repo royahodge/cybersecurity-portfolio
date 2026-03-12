@@ -15,9 +15,11 @@ My goal is to transition into an entry-level cybersecurity analyst role focused 
 Conducted a vulnerability scan of a simulated environment using Nessus and documented security risks and remediation strategies.
 
 ### 2. Security Incident Investigation
+[View Project →](./incident-investigation)
 Analyzed authentication logs and reconstructed an attack timeline to investigate a simulated account compromise.
 
 ### 3. Governance Risk Assessment
+[View Project →](./risk-assessment)
 Performed a security risk analysis of a fictional healthcare portal and recommended controls aligned with NIST security principles.
 
 ## Tools Used
