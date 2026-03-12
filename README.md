@@ -11,25 +11,51 @@ My goal is to transition into an entry-level cybersecurity analyst role focused 
 ## Projects
 
 ### 1. Vulnerability Assessment
+
 [View Project →](./vulnerability-assessment)
-Conducted a vulnerability scan of a simulated environment using Nessus and documented security risks and remediation strategies.
 
-### 2. Security Incident Investigation
-[View Project →](./incident-investigation)
-Analyzed authentication logs and reconstructed an attack timeline to investigate a simulated account compromise.
+Conducted a vulnerability scan of a simulated lab environment using Nessus to identify critical security weaknesses and recommend remediation strategies.
 
-### 3. Governance Risk Assessment
-[View Project →](./risk-assessment)
-Performed a security risk analysis of a fictional healthcare portal and recommended controls aligned with NIST security principles.
+**Skills demonstrated**
+- Vulnerability scanning
+- CVSS risk analysis
+- Security remediation planning
 
-## Tools Used
-
+**Tools**
 - Kali Linux
 - Nessus Essentials
 - VirtualBox
-- Log analysis
-- Security documentation
 
+### 2. Security Incident Investigation
+
+[View Project →](./incident-investigation)
+
+Analyzed authentication logs and reconstructed an attack timeline to investigate a simulated account compromise scenario.
+
+**Skills demonstrated**
+- Log analysis
+- Security event investigation
+- Timeline reconstruction
+- Incident documentation
+
+**Tools**
+- Log analysis
+- Security investigation techniques
+
+### 3. Governance Risk Assessment
+
+[View Project →](./risk-assessment)
+
+Performed a security risk assessment of a fictional healthcare portal, identifying threats and recommending security controls aligned with NIST security principles.
+
+**Skills demonstrated**
+- Threat analysis
+- Risk assessment
+- Security control evaluation
+- Governance documentation
+
+**Framework**
+- NIST Risk Management concepts
 ## Author
 
 Roya Hodge
