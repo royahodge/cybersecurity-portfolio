@@ -1,6 +1,5 @@
 # Cybersecurity Portfolio
 
-This repository contains hands-on cybersecurity projects demonstrating skills in vulnerability analysis, incident investigation, and risk assessment.
 
 ### About Me
 
